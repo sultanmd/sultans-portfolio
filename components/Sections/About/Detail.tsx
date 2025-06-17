@@ -51,7 +51,7 @@ const Detail = ({ onOpen }: ISkillSetModal) => {
         What i do.
       </Heading>
       <Text variant="description">
-        I`ve been coding professionally for {professionalYears} years now and
+        I`ve1 been coding professionally for {professionalYears} years now and
         currently working as a <b>Software Engineer</b> that focuses on{' '}
         <b>architecture</b>, <b>APIs</b>,{' '}
         <Tooltip
